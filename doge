@@ -1,0 +1,48 @@
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: url(https://media.tenor.com/images/8fbda6a13aee444e0397f07541d1f98e/tenor.gif)
+  50%;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+</style>
+<p> Dogs r gr8 <br> \(^-^)/</p>
+<a href= "http://uww.edu">dogsrgr8</a><br>
+<h1>Dogs r gr8</h1><br>
+<h2>dog backwards is god</h2>
+<h3>doge is god</h3>
+<h4>doge is meme</h4>
+<h5>memes r gr8</h5>
+<h6>doge is gr8</h6><b
+<h7> memesmemesmemesmemes</h7>
+<ul>
+  <li>doge</li>
+  <li>kermit the frog</li>
+  <li>pepe</li>
+  <li>memes everywhere</li>
+</ul>
+<ol>
+  <li>doge</li>
+  <li>kermit the frog</li>
+  <li>pepe</li>
+  <li>memes everywhere</li>
+</ol>
+<img src="http://24.media.tumblr.com/7607eb68777bbcac012f179cf504cd16/tumblr_mvp8vmvYeF1r65thuo7_500.png"/><br>
+<strong>yes much doge <br> doge is god<br>doge is life</strong><br>
+<i>doge is always watching</i><br>cuz<br>
+<u>doge is everywhere<br>doge is god</u>
